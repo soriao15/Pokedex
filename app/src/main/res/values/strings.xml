@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_title_hint">Enter a title.</string>
+    <string name="pokemon_title_label">Title</string>
+    <string
+        name="pokemon_stats_label">Stats</string>
+    <string name="pokemon_category_label">Type</string>
+
+</resources>
